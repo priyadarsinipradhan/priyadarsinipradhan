@@ -1,5 +1,5 @@
 - 👋 Hi, I’m priyadarsini pradhan
-- 👀 I’m searching for job in python or java developer
+- 👀 I’m searching for job in Devops
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me 
            9777754703
